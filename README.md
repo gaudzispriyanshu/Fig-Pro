@@ -28,7 +28,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/ansh04196/Fig-Pro.git
+git clone https://github.com/gaudzispriyanshu/Fig-Pro.git
 ```
 
 **Installation**
@@ -82,3 +82,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 👉 **Deleting, Scaling, Moving, Clearing, Exporting Canvas**: Offers a range of functions for managing design elements, including deletion, scaling, moving, clearing the canvas, and exporting the final design for external use.
 
 and many more, including code architecture, advanced react hooks, and reusability 
+
+## Deployed Link
+- https://fig-pro-ansh.vercel.app/
